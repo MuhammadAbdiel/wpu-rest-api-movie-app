@@ -209,6 +209,7 @@ function searchMovie() {
                         })
                 });
             });
+            searchInput.value = '';
         })
 }
 
